@@ -63,7 +63,7 @@ export const Bio = {
             "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
         },
         {
-          name: "MySQL",
+          name: "SQL",
           image:
             "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
         },
@@ -148,19 +148,14 @@ export const Bio = {
       title: "Others",
       skills: [
         {
-          name: "Docker",
-          image:
-            "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
-        },
-        {
           name: "VS Code",
           image:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
         },
         {
-          name: "MIPS Assembly Language",
+          name: "IntelliJ IDEA",
           image:
-            "https://www.robertwinkler.com/projects/mips_book/images/mips_book.png",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png",
         },
         {
           name: "Visual Studio",
@@ -180,7 +175,27 @@ export const Bio = {
         {
           name: "AWS",
           image:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png",
+            "https://i.scdn.co/image/ab67656300005f1f49f81331af04ec3614a5a741",
+        },
+        {
+          name: "Eclipse",
+          image:
+            "https://cdn.worldvectorlogo.com/logos/eclipse-11.svg",
+        },
+        {
+          name: "Docker",
+          image:
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
+        },
+        {
+          name: "Jupyter Notebook",
+          image:
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png",
+        },
+        {
+          name: "MIPS Assembly Language",
+          image:
+            "https://www.robertwinkler.com/projects/mips_book/images/mips_book.png",
         },
       ],
     },
