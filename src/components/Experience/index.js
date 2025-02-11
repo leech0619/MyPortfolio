@@ -1,33 +1,33 @@
 import React from 'react';
-import { Container, Wrapper, Title, Desc, TimelineSection } from './EducationStyle';
+import { Container, Wrapper, Title, Desc, TimelineSection } from './ExperienceStyle';
 import Timeline from '@mui/lab/Timeline';
 import TimelineItem from '@mui/lab/TimelineItem';
 import TimelineSeparator from '@mui/lab/TimelineSeparator';
 import TimelineConnector from '@mui/lab/TimelineConnector';
 import TimelineContent from '@mui/lab/TimelineContent';
 import TimelineDot from '@mui/lab/TimelineDot';
-import { education } from '../../data/constants';
-import EducationCard from '../Cards/EducationCard';
+import ExperienceCard from '../Cards/ExperienceCard';
+import { experiences } from '../../data/constants';
 
-const Education = () => {
+const Experience = () => {
     return (
-        <Container id="education">
+        <Container id="experience">
             <Wrapper>
-                <Title>Education</Title>
+                <Title>Experience</Title>
                 <Desc>
-                A life without learning is a life without wonder and excitement, ultimately leading to a dull existence. My educational details are as follows.
+                    My work experience as a software engineer intern.
                 </Desc>
                 <TimelineSection>
                     <Timeline>
-                        {education.map((edu, index) => (
+                        {experiences.map((experience, index) => (
                             <TimelineItem key={index}>
-                                <TimelineContent sx={{ py: '12px', px: 2 }}>
-                                    <EducationCard education={edu} />
-                                </TimelineContent>
                                 <TimelineSeparator>
                                     <TimelineDot variant="outlined" color="secondary" />
-                                    {index !== education.length - 1 && <TimelineConnector style={{ background: '#854CE6' }} />}
+                                    {index !== experiences.length - 1 && <TimelineConnector style={{ background: '#854CE6' }} />}
                                 </TimelineSeparator>
+                                <TimelineContent sx={{ py: '12px', px: 2 }}>
+                                    <ExperienceCard experience={experience} />
+                                </TimelineContent>
                             </TimelineItem>
                         ))}
                     </Timeline>
@@ -37,4 +37,4 @@ const Education = () => {
     );
 };
 
-export default Education;
+export default Experience;

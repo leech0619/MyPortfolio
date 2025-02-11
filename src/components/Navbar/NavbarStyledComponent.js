@@ -1,9 +1,10 @@
 import { Link as LinkR } from 'react-router-dom';
 import styled from 'styled-components';
 import _default from '../../themes/default';
+import { MdKeyboardArrowLeft, MdKeyboardArrowRight } from 'react-icons/md';
 
 export const Nav = styled.div`
-    background-color: ${({theme}) => theme.card_light};
+    background: ${({ theme }) => theme.card_light};
     height: 80px;
     display: flex;
     align-items: center;
@@ -39,7 +40,6 @@ export const NavLogo = styled(LinkR)`
   }
 `;
 export const Span = styled.div`
-    padding: 0 4px;
     font-weight: bold;
     font-size: 18px;
 `;
@@ -241,4 +241,16 @@ export const MobileNavLogo = styled(LinkR)`
   @media (max-width: 640px) {
     padding: 0 0px;
   }
+`;
+
+export const ArrowLeftIcon = styled(MdKeyboardArrowLeft)`
+  color: ${({ theme }) => theme.primary};
+  font-size: 2.5rem;
+  filter: contrast(3.92);
+`;
+
+export const ArrowRightIcon = styled(MdKeyboardArrowRight)`
+  color: ${({ theme }) => theme.primary};
+  font-size: 2.5rem;
+  filter: contrast(3.92);
 `;
