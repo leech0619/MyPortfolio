@@ -233,7 +233,7 @@ export const Bio = {
       school: "Universiti Tunku Abdul Rahman,",
       date: "Oct 2022 - Oct 2025",
       grade: "3.8338 CGPA",
-      desc: "I am currently pursuing a Bachelor's degree in Computer Science at Universiti Tunku Abdul Rahman, Malaysia. I am currently working on my final year project and have a CGPA of 3.8338. My expected study completion month is on Oct 2025.",
+      desc: "I am currently pursuing a Bachelor's degree in Computer Science at Universiti Tunku Abdul Rahman, Malaysia. I am currently working on my final year project and my expected study completion month is on Oct 2025.",
       degree: "Bachelor of Computer Science (Honours)",
     },
     {
