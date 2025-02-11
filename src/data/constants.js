@@ -73,11 +73,6 @@ export const Bio = {
             "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png",
         },
         {
-          name: "C",
-          image:
-            "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png",
-        },
-        {
           name: "C#",
           image:
             "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?20180210215736",
