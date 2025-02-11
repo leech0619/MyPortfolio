@@ -21,7 +21,7 @@ const Footer = () => {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Lee Chorng Huah</Logo>
+        <Logo>&lt; Chorng Huah &gt;</Logo>
         <Nav>
             <NavLink href="#about">About</NavLink>
             <NavLink href="#skills">Skills</NavLink>
