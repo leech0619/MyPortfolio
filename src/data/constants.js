@@ -214,7 +214,7 @@ export const Bio = {
   export const education = [
     {
       id: 0,
-      img: "https://previews.dropbox.com/p/thumb/ACjM_5ViTufOi_Q13MMELHg7JVrVP-3QYMDbpQz6csw3BtCPxuLTu5GXYA7GPpZwayZIkhjHYn0xoJi0xZDQ10bTv-kG2IGsxTcgpc5uShVsZvxBWhHn81vgviyDrfDIPF2N3rGNcTZngPN8M29bjeVbujpPwOzN4p4jo7RR_IL3NQC5PRGhS5EeIbZgdeDlzhYQeKwcXKvbdyd-8T9sAmLdcoOPaq2nvMq3It49enryJKZncmIgLmaJUoxYMfsu7U27LSH8iKhP04Ujn-phABjWL7_AysWES4Cgsm8FLUyfN2OoUm1Ibj4ZESDkox_Jq4U/p.png",
+      img: "https://www.teeip.com/wp-content/uploads/2018/08/utar-logo.png",
       school: "Universiti Tunku Abdul Rahman,",
       date: "Oct 2022 - Oct 2025",
       grade: "3.8338 CGPA",
