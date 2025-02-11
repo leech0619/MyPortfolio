@@ -189,7 +189,7 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
-      img: "https://previews.dropbox.com/p/thumb/AChmcKYmGL_92UgE_GYSg1dVWNF3Ti8Ul9YISq-X05c9Iad5TBFJiuRdSfRdwn5TMrVgiv0jGl0f7ih7Se0gff7PWhmFb-GQ-UpGsOzsh23Di27U4VE_bN82EhUCeWuIlBhf7vZK7hJnlQDEGm7TCjheCcTX9QaQ8jg1bKZ6cmdLFYdqeb-G7QUqOCo2OG78tZ4Ix85Dd8BXVR4-nuIe02LT-Ja_0MoFpxCnZ7lZfoZi_H_wmVbTu5pYQ1Mxtq6O92rnTPZ0hyTUMkdGA_-6FstMHRb9kW4RCfaCGfIn7MgY5a1DPUsyN-GgpZ_duoNIPCg/p.jpeg",
+      img: "https://is4-ssl.mzstatic.com/image/thumb/Purple18/v4/d9/07/e5/d907e573-8e8b-32ef-6232-4fda98a73590/source/512x512bb.jpg",
       role: "Software Engineer Intern",
       company: "Unifiedcomms Group",
       date: "Oct 2024 - Jan 2025",
@@ -223,7 +223,7 @@ export const Bio = {
     },
     {
       id: 1,
-      img: "https://previews.dropbox.com/p/thumb/ACgctRnq0epr-MwZiBBSLNXKI_zWlD78lDWP8KJt-rW2j3gsYk8VYz5icLjPSqXRvusucvyVekWIL9sPYPE2J8UZBN0K_0lIrVKzZ5dLVE-eVp9qr4N8xwiBhddTCdb_vyyELejHgql_5iY2NT0tMOvhhE0-0OvUnzozKyp7zf-fU29ZudIwQNKMpAjXapp73y2PlWS15wpQjJvnqwGVyxarzv0C6RNgAyGzOOgA7cdSFpxXohzqmwDB1Q_zOArgVv1GbCiFgVAZ97bvXool7qwPjnfYPr9pafh-BFeTYQSbc3clt4nFy_oY3Reb6sEGNTI/p.png",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-Onm68yLdmlSbpDJakmI8r1Q4aBNu_cYxg&s",
       school: "SMK Seri Kampar",
       date: "Jul 2020 - Jun 2022",
       grade: "3.09 CGPA",
