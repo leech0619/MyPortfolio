@@ -61,6 +61,6 @@ export const TimelineSection = styled.div`
     justify-content: center;
     gap: 12px;
     @media (max-width: 660px) {
-        align-items: end;
+        align-items: center;
     }
 `;
