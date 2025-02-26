@@ -49,10 +49,6 @@ export const Bio = {
       title: "Backend",
       skills: [
         {
-          name: "Node Js",
-          image: "https://nodejs.org/static/images/logo.svg",
-        },
-        {
           name: "Python",
           image:
             "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
@@ -68,6 +64,11 @@ export const Bio = {
             "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
         },
         {
+          name: "PHP",
+          image:
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png",
+        },
+        {
           name: "C++",
           image:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png",
@@ -76,16 +77,11 @@ export const Bio = {
           name: "C#",
           image:
             "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?20180210215736",
-        },
-        {
-          name: "Spring Boot",
-          image:
-            "https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png",
-        },         
+        },        
       ],
     },
     {
-      title: "Android",
+      title: "Mobile App Development",
       skills: [
         {
           name: "Java",
@@ -96,6 +92,16 @@ export const Bio = {
           name: "Android Studio",
           image:
             "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
+        },
+        {
+          name: "Flutter",
+          image:
+            "https://avatars.githubusercontent.com/u/14101776?s=280&v=4",
+        },
+        {
+          name: "Dart",
+          image:
+            "https://avatars.githubusercontent.com/u/1609975?s=280&v=4",
         },
       ],
     },
@@ -153,11 +159,6 @@ export const Bio = {
             "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png",
         },
         {
-          name: "Visual Studio",
-          image:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/193px-Visual_Studio_Icon_2022.svg.png",
-        },
-        {
           name: "Wireshark",
           image:
             "https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png",
@@ -166,11 +167,6 @@ export const Bio = {
           name: "Unity",
           image:
             "https://cdn.worldvectorlogo.com/logos/unity-69.svg",
-        },
-        {
-          name: "AWS",
-          image:
-            "https://i.scdn.co/image/ab67656300005f1f49f81331af04ec3614a5a741",
         },
         {
           name: "Eclipse",
@@ -186,11 +182,6 @@ export const Bio = {
           name: "Jupyter Notebook",
           image:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png",
-        },
-        {
-          name: "MIPS Assembly Language",
-          image:
-            "https://www.robertwinkler.com/projects/mips_book/images/mips_book.png",
         },
       ],
     },
